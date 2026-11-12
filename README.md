@@ -36,7 +36,7 @@ The server uses Quantum Metric sign-in (OAuth). Every call runs as you, with you
 
 ## Support
 
-support@quantummetric.com
+support@quantummetric.com, or the [Quantum Metric support portal](https://thequad.quantummetric.com/).
 
 ## Privacy
 
