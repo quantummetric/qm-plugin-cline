@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "quantum-metric": {
+      "type": "streamableHttp",
+      "url": "https://api.quantummetric.com/mcp",
+      "disabled": false
+    }
+  }
+}
